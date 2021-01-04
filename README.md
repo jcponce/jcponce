@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi, my name is Juan Carlos. I am a mathematician living in Australia where I teach mathematics and work on the design and integration of online learning modules and interactive mathematical applets for the School of Mathematics and Physics at the University of Queensland. 
+
+I also make open source applets about mathematics and online interactive books. They are all free and available for everyone interested in exploring mathematics from a visual point of view.
+
 <!--
 **jcponce/jcponce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
