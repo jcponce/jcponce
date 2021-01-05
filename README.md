@@ -2,9 +2,7 @@
 
 My name is Juan Carlos. 🔭 I am a mathematician working on the design and integration of online learning modules, free interactive [mathematical applets](https://jcponce.github.io/) and [books](https://complex-analysis.com/).
 
-I also love sharing animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath).
-
-If you like what I do, I will appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
+I also share animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
 
 <!--
 **jcponce/jcponce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
