@@ -4,6 +4,8 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 
 ![](https://1.bp.blogspot.com/-2yNob0xMqgc/X7WpszyovkI/AAAAAAAAZkI/NKLUbo9fdlQiNjvP8XEBMnfUniFDVpnPwCLcBGAsYHQ/s600/ico-tetrea.gif)
 
+![](https://1.bp.blogspot.com/-t64AuUMrbdk/X5ub7iJpenI/AAAAAAAAZd4/E2ydzexSnpMwSCfB3V0k8he-OOTd65tZQCLcBGAsYHQ/s2048/mystery-curve.png)
+
 I also share animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
 
 <!--
