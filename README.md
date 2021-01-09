@@ -4,10 +4,7 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 
 I also share animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
 
-<p >
-![](penrose-triangle.gif)</p>
-
-<img src="penrose-triangle.gif" alt="" style:"display: block;margin-left: auto;margin-right: auto;width: 50%;">
+![](penrose-triangle.gif)
 
 <!--
 **jcponce/jcponce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
