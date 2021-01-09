@@ -4,8 +4,6 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 
 I also share animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
 
-![](penrose-triangle.gif)
-
 <p align="center">
   <img src="penrose-triangle.gif" />
 </p>
