@@ -6,6 +6,10 @@ I also share animations about mathematics and physics on [Twitter](https://twitt
 
 ![](penrose-triangle.gif)
 
+<p align="center">
+  <img src="penrose-triangle.gif" />
+</p>
+
 <!--
 **jcponce/jcponce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
