@@ -2,7 +2,7 @@
 
 My name is Juan Carlos. 🔭 I am a mathematician working on the design and integration of online learning modules, free interactive [mathematical applets](https://jcponce.github.io/) and [books](https://complex-analysis.com/).
 
-![](ico-tetrea.gif)
+![](loop-cat.gif)
 
 I also share animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
 
