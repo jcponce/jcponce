@@ -4,7 +4,7 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 
 I also share animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
 
-<p style="text-align:center">
+<p align="center">
   <img src="https://1.bp.blogspot.com/-eItfS2U8eJk/YTA_Z2Lq9CI/AAAAAAAAa9o/4a4T2EtGHRkl7tYnrQNDNXUQVlrTP7HkQCLcBGAsYHQ/s601/turus-rings.gif" width="23%" />
 </p>
 
