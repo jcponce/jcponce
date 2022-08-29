@@ -8,7 +8,11 @@ I also share animations about mathematics and physics on [Twitter](https://twitt
   <img src="https://1.bp.blogspot.com/-eItfS2U8eJk/YTA_Z2Lq9CI/AAAAAAAAa9o/4a4T2EtGHRkl7tYnrQNDNXUQVlrTP7HkQCLcBGAsYHQ/s601/turus-rings.gif" width="23%" />
 </p>
 
-![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&show_icons=true&theme=tokyonight)
+<p align="center">
+  ![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&show_icons=true&theme=tokyonight)
+</p>
+
+
 
 <!--
 **jcponce/jcponce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
