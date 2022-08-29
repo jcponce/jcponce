@@ -1,4 +1,4 @@
-![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&show_icons=true&theme=radical)
+![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&show_icons=true&theme=onedark)
 
 ### Hi there 👋
 
