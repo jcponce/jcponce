@@ -15,7 +15,7 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 I also share animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
 
 <p align="center">
-  <img src="penrose-triangle.gif" width="20%" />
+  <img src="cantor-rainbow.gif" width="20%" />
 </p>
 
 
