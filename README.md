@@ -13,13 +13,15 @@ I also share animations about mathematics and physics on [Twitter](https://twitt
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/jcponcemath)
 [![](https://img.shields.io/badge/-email-ffe27a?style=flat-square)](mailto:jcponcemath@gmail.com)
 
+[![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&count_private=true&show_icons=true&theme=graywhite&hide=issues)
+
+[![My GitHub Streak](https://streak-stats.demolab.com/?user=jcponce&theme=graywhite)](https://git.io/streak-stats)
+
 
 <p align="center">
   <img src="https://1.bp.blogspot.com/-eItfS2U8eJk/YTA_Z2Lq9CI/AAAAAAAAa9o/4a4T2EtGHRkl7tYnrQNDNXUQVlrTP7HkQCLcBGAsYHQ/s601/turus-rings.gif" width="23%" />
   
-  [![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&count_private=true&show_icons=true&theme=graywhite&hide=issues)
-
-  [![My GitHub Streak](https://streak-stats.demolab.com/?user=jcponce&theme=graywhite)](https://git.io/streak-stats)
+  
   
 </p>
 
