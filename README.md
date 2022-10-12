@@ -14,7 +14,7 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 
 I also share animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
 
-https://1.bp.blogspot.com/--Lr-T9gId_g/YOwHRWQGJBI/AAAAAAAAa1E/jr7pBBfJvO4kz3fXpo3fYnqLcC61qAAQACLcBGAsYHQ/s600/fly.gif
+![https://1.bp.blogspot.com/--Lr-T9gId_g/YOwHRWQGJBI/AAAAAAAAa1E/jr7pBBfJvO4kz3fXpo3fYnqLcC61qAAQACLcBGAsYHQ/s600/fly.gif]
 
 <p align="center">
   <img src="https://1.bp.blogspot.com/--Lr-T9gId_g/YOwHRWQGJBI/AAAAAAAAa1E/jr7pBBfJvO4kz3fXpo3fYnqLcC61qAAQACLcBGAsYHQ/s600/fly.gif" width="20%" />
