@@ -13,7 +13,7 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 
 I also share animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
 
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)]([https://twitter.com/jcponcemath](https://twitter.com/jcponcemath))
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/jcponcemath))
 [![](https://img.shields.io/badge/-email-ffe27a?style=flat-square)](mailto:jcponcemath@gmail.com)
 
 
