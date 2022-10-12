@@ -6,7 +6,7 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcponce&repo=jcponce.github.io&theme=graywhite)](https://github.com/jcponce/jcponce.github.io)
 
-![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&show_icons=true&theme=tokyonight)
+![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&count_private=true&show_icons=true&theme=graywhite&hide=issues)
 [![My GitHub Streak](https://streak-stats.demolab.com/?user=jcpone&theme=graywhite)](https://git.io/streak-stats)
 
 ### Animations for fun
