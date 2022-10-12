@@ -15,7 +15,7 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 I also share animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
 
 <p align="center">
-  <img src="cantor-rainbow.gif" width="20%" />
+  <img src="https://1.bp.blogspot.com/-mAB4Aghvh_w/YAfGaxXvf8I/AAAAAAAAaEc/frPBxpKu7PMoHvrGIuUf8Q2rkXY6kyouQCLcBGAsYHQ/s900/fourier.gif" width="20%" />
 </p>
 
 
