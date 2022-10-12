@@ -4,7 +4,7 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/jcponcemath)
 [![](https://img.shields.io/badge/-email-ffe27a?style=flat-square)](mailto:jcponcemath@gmail.com)
 
-### Mathematical Applets
+### Featured repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcponce&repo=jcponce.github.io&theme=graywhite)](https://github.com/jcponce/jcponce.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=complex-analysis&repo=complex-analysis.github.io&theme=graywhite)](https://github.com/complex-analysis/complex-analysis.github.io)
