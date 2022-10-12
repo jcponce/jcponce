@@ -6,7 +6,7 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcponce&repo=jcponce.github.io&theme=graywhite)](https://github.com/jcponce/jcponce.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcponce&repo=complex-analysis.github.io&theme=graywhite)](https://github.com/complex-analysis/complex-analysis.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=complex-analysis&repo=complex-analysis.github.io&theme=graywhite)](https://github.com/complex-analysis/complex-analysis.github.io)
 
 
 ### Animations for fun
