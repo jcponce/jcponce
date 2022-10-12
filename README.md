@@ -4,8 +4,9 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 
 ### A couple of featured projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcponce&repo=creative-machine&theme=graywhite)](https://github.com/jcponce/jcponce.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcponce&repo=creative-machine-website&theme=graywhite)](https://github.com/complex-analysis/complex-analysis.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcponce&repo=jcponce.github.io&theme=graywhite)](https://github.com/jcponce/jcponce.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcponce&repo=complex-analysis.github.io
+e&theme=graywhite)](https://github.com/complex-analysis/complex-analysis.github.io)
 
 ![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&show_icons=true&theme=tokyonight)
 [![My GitHub Streak](https://streak-stats.demolab.com/?user=jcpone&theme=graywhite)](https://git.io/streak-stats)
