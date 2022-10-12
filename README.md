@@ -21,7 +21,6 @@ I also share animations about mathematics and physics on [Twitter](https://twitt
 
 
 ![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&count_private=true&show_icons=true&theme=graywhite&hide=issues)
-
 [![My GitHub Streak](https://streak-stats.demolab.com/?user=jcponce&theme=graywhite)](https://git.io/streak-stats)
 
 
