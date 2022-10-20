@@ -2,9 +2,6 @@
 
 My name is Juan Carlos. 🔭 I am a mathematician working on the design and integration of online learning modules, free interactive [mathematical applets](https://jcponce.github.io/) and [books](https://complex-analysis.com/).
 
-[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/jcponcemath)
-[![](https://img.shields.io/badge/-email-ffe27a?style=flat-square)](mailto:jcponcemath@gmail.com)
-
 ### Featured repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcponce&repo=jcponce.github.io&theme=graywhite)](https://github.com/jcponce/jcponce.github.io)
@@ -13,7 +10,7 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 
 ### Animations for fun
 
-I also share animations about mathematics and physics on [Twitter](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
+I also share animations about mathematics and physics on [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/jcponcemath) and appreciate ❤️ your [support](https://www.patreon.com/jcponce). Thanks 😄.
 
 <p align="center">
   <img src="cantor-rainbow.gif" width="29%" />
@@ -32,6 +29,7 @@ I also share animations about mathematics and physics on [Twitter](https://twitt
 
 
 <!--
+[![](https://img.shields.io/badge/-email-ffe27a?style=flat-square)](mailto:jcponcemath@gmail.com)
 ![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&count_private=true&show_icons=true&theme=graywhite&hide=issues)
 
 
