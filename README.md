@@ -19,6 +19,10 @@ I also share animations about mathematics and physics on [Twitter](https://twitt
 </p>
 
 
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=jcponce&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues&hide_rank=true&bg_color=00000000" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcponce&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,css,html">
+</p>
 
 ![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&count_private=true&show_icons=true&theme=graywhite&hide=issues)
 
