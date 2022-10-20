@@ -22,15 +22,11 @@ I also share animations about mathematics and physics on [![](https://img.shield
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcponce&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,css,html">
 </p>
 
-![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&count_private=true&show_icons=true&theme=graywhite&hide=issues)
-
-
-
-
 
 
 <!--
 [![](https://img.shields.io/badge/-email-ffe27a?style=flat-square)](mailto:jcponcemath@gmail.com)
+![Juan Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcponce&count_private=true&show_icons=true&theme=graywhite&hide=issues)
 
 
 [![My GitHub Streak](https://streak-stats.demolab.com/?user=jcponce&theme=graywhite)](https://git.io/streak-stats)
