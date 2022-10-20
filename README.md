@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Juan Carlos. 🔭 I am a mathematician working on the design and integration of online learning modules, free interactive [mathematical applets](https://jcponce.github.io/) and [books](https://complex-analysis.com/).
+
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/jcponcemath)
 [![](https://img.shields.io/badge/-email-ffe27a?style=flat-square)](mailto:jcponcemath@gmail.com)
 
