@@ -4,7 +4,8 @@ My name is Juan Carlos. 🔭 I am a mathematician working on the design and inte
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jcponcemath/)
 [![Mathstodon](https://img.shields.io/badge/Mastodon-purple?logo=mastodon&logoColor=white&style=for-the-badge)](https://mathstodon.xyz/@jcponcemath)
-[![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCUATU6rIKNIS79Pyw9sRpiA)
+[![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCUATU6rIKNIS79Pyw9sRpiA)\
+[![X](https://img.shields.io/badge/twitter-blue?logo=twitter&logoColor=white&style=for-the-badge)]([https://www.youtube.com/channel/UCUATU6rIKNIS79Pyw9sRpiA](https://twitter.com/jcponcemath))
 
 ### Featured repositories
 
