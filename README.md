@@ -2,6 +2,10 @@
 
 My name is Juan Carlos. 🔭 I am a mathematician working on the design and integration of online learning modules, free interactive [mathematical applets](https://jcponce.github.io/) and [books](https://complex-analysis.com/).
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-green?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jcponcemath/)
+<a href="https://mathstodon.xyz/@jcponcemath" rel="me">![Mastodon](https://img.shields.io/badge/Mastodon-purple?logo=mastodon&logoColor=white&style=for-the-badge)</a>
+[![YouTube](https://img.shields.io/badge/Youtube-red?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCUATU6rIKNIS79Pyw9sRpiA)
+
 ### Featured repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jcponce&repo=jcponce.github.io&theme=graywhite)](https://github.com/jcponce/jcponce.github.io)
